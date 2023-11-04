@@ -1,6 +1,4 @@
-# copyright 2023-2024 @Mohamed Rizad ، @UP_UO 
-# Telegram @riz4d , @UP_UO 
-# Instagram @riz.4d , @wfj.x
+
 from pyrogram import *
 import requests as re
 from config import Config
